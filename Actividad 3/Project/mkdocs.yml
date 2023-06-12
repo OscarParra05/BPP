@@ -1,0 +1,19 @@
+site_name: Programación en Python
+
+nav:
+
+  - Enunciado Ejercicio: index.md
+  - Solucion Ejercicio Propuesto: solucion-python.md
+  - Detalle del Código Paso a Paso: explicacion-codigo.md
+
+extra:
+  favicon: python.ico
+
+  
+theme:
+  name: material
+  palette:
+    primary: "red"
+    accent: "cyan"
+
+  features: search
