@@ -1,3 +1,0 @@
-holaaaa
-hellooo
-bonaseraaa
